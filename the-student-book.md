@@ -1,4 +1,14 @@
+# The Instructor Book
+
+Written by Michael.yg.Chen<at>gmail.com
+
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
+Give an overview of Agile Scrum via 15 commonly used terms and examples
+
+
 ## Survey A
+
 - 大家谁知道Agile？ 
 - 谁知道 Scrum？
 - 谁经历过Scrum？
@@ -7,21 +17,27 @@
 
  
 ## Self-driving 
+
 - 如何分配工作？
 - 有的人有太闲，有的人太忙咋办？
 - 你管理的人员加倍了，你咋办？（没合适的lead，哈）
 
-	类似于 “无监督的学习”
-	类似于 “从我做起”
-	其实我的体验是 ”做老大交代的事“
+类似于 “无监督的学习”
+类似于 “从我做起”
+其实我的体验是 ”做老大交代的事“
+
 
 ## Backlog
-	短期todos，长期todos，或小，或大
+	
+短期todos，长期todos，或小，或大
 
 - 不严格标记优先级
 - 不做人天的预估（待续）
 
+
 ## Story
+
+例子：
 	As a 运营专员，
 	I want to 通过关键词快速查找到相应的一篇／偶尔多篇文章，并下线其中的一篇或者多篇，
 	so as to 先发后审，以及已经出问题后的紧急处理
@@ -34,17 +50,19 @@
 
 
 ## Epic
+
+例子：
 	As a 运维专员，
 	I want to 运维各种工作，如强插，置顶，推送，下线… ，
 	so as to 就不用求开发同学了
 
-	巨大的story，例如Atlas
+巨大的story，例如Atlas
 
 
 ## Sprint
-	即迭代周期，发布可以使用的应用，真的发布
 
-	1 month, 2 weeks, 1 week,  or 1 day
+即迭代周期，发布可以使用的应用，真的发布
+1 month, 2 weeks, 1 week,  or 1 day
 
 - 挑选story - by scrum team
 - 评估story的工作量 （待续）
@@ -55,7 +73,9 @@
 - 完成一个story，意味着可以上线，不是可以测试
 - 对于每个story／发布，全部测试用例都要pass
 
+
 ## Survey B
+
 - 迭代开发可以节省人天？
 - 迭代开发越到后面迭代bug会增多？
 - 目前我们开放选择在什么时候重构？
@@ -70,23 +90,29 @@
 
 
 ## Kanban
-	看一个 example，改良的kanban，专利权归 Michael 所有
+
+看一个 example，改良的kanban，专利权归 Michael 所有
+
 
 ## Team Members
-	- stakeholders  （澄清epic／story）
-	- scrum team members 
-	- scrum master （了解概念，不是lead，组织3个会议，后续）
 
-	例子，屏保图配文 （承上），定义一下Epics
+- stakeholders  （澄清epic／story）
+- scrum team members 
+- scrum master （了解概念，不是lead，组织3个会议，后续）
+
+例子，屏保图配文 （承上），定义一下Epics
+
 
 ## Story Points
-	即 planning／sizing 
+
+即 planning／sizing 
+
 - 扑克游戏
 - A组：狗 100
 - B组：大象 100
 
 问题：
-	你们API在2天后能不能上线“狐狸”这歌需求？
+你们API在2天后能不能上线“狐狸”这歌需求？
 
 回答：
 - 如果“狗”要2天能搞定，那么“狐狸”只要1天
@@ -95,22 +121,28 @@
 
 
 ## Velocity
-	scrum team‘s total story points per sprint
+	
+scrum team‘s total story points per sprint
 
-	- team 成员越稳定，趋势持平略微上升
-	- 需要多面手
-	- 需要更长的backlog
-	- 需要把 Epic／story 解耦
+- team 成员越稳定，趋势持平略微上升
+- 需要多面手
+- 需要更长的backlog
+- 需要把 Epic／story 解耦
+
 
 ## Scrum Meeting 
-	- planning meeting， 从backlog选story到sprint，team member 把 story分给自己
-	- daily scrum meeting
-		what 昨天，what 今天，what 问题
-	- retrospection meeting
-		lesson learn， 正向，负向
 
-		velocity 
+- planning meeting， 
+从backlog选story到sprint，team member 把 story分给自己
+
+- daily scrum meeting
+what 昨天，what 今天，what 问题
+
+- retrospection meeting
+lesson learn， 正向，负向
+velocity 
+
 
 ## Burn-down Chart
 
-	参考 Jira burn-down chart
+参考 Jira burn-down chart
