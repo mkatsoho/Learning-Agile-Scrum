@@ -107,7 +107,7 @@ Give an overview of Agile Scrum via 15 commonly used terms and examples
 
 即 planning／sizing 
 
-- 扑克游戏（0，1， 2， 3，5，10，15，30，50，100，150，300，500，1000，infinit
+- 扑克游戏（0，1， 2， 3，5，10，15，30，50，100，150，300，500，1000，infinity
 - A组：狗 100
 - B组：大象 100
 
@@ -115,11 +115,11 @@ Give an overview of Agile Scrum via 15 commonly used terms and examples
 求答案：
 
 问题：
-你们API在2天后能不能上线“狐狸”这歌需求？
+你们组在2天内能不能上线“猫”这歌需求？
 
 回答：
-- 如果“狗”要2天能搞定，那么“狐狸”只要1天
-- 如果“大象”要2天搞定，那么狐狸就是2小时
+- 如果“狗”要2天能搞定，那么“猫”只要1天
+- 如果“大象”要2天搞定，那么“猫”就是0.5小时
 - 请问“狗”或者“大象”需要几天搞定？
 
 
