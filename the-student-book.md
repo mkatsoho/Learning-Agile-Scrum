@@ -1,6 +1,6 @@
 # The Student Book
 
-Written by Michael.yg.Chen at gmail.com
+Written by Michel.yg.Chen at gmail.com
 
 License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
